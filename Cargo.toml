@@ -1,0 +1,25 @@
+[package]
+name = "simplestbrowser"
+version = "0.1.0"
+authors = ["DefunctLizard <grantshandy@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+webkit2gtk = "^0"
+gdk-pixbuf = "^0"
+
+[dependencies.gtk]
+version = "0.8.1"
+features = ["v3_16"]
+
+[dependencies.gdk]
+version = "0.12.1"
+
+[dependencies.glib]
+version = "0.9.3"
+
+[dependencies.gio]
+version = ""
+features = ["v2_44"]
