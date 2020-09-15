@@ -1,3 +1,5 @@
+#![windows_subsystem = "windows"]
+
 use gtk::*;
 use gtk::prelude::*;
 use gio::prelude::*;
