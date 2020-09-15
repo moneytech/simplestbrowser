@@ -1,3 +1,3 @@
 # simplestbrowser
-A simple implementation of webkitGTK in ~68 Rust SLOC. Compiles to an only 3.1 MB for a self-contained binary.
+A simple implementation of webkitGTK in ~68 Rust SLOC. Compiles to a 3.1 MB self-contained binary. 
 ![simplestbrowser](https://github.com/skylinecc/simplestbrowser/blob/master/data/simplestbrowser.png?raw=true)
