@@ -14,7 +14,7 @@ Build the project:
 ```
 $ cargo build --release
 ```
-Run the project
+Run the project:
 ```
 $ ./target/debug/simplestbrowser
 ```
