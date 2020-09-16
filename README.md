@@ -10,10 +10,15 @@ Download the latest binary from the [releases](https://github.com/skylinecc/simp
 Install dependencies:
 ```
 # apt install libwebkit2gtk-4.0-dev
+$ cargo install cargo-strip
 ```
 Build the project:
 ```
 $ cargo build --release
+```
+Minimize the binary:
+```
+$ cargo strip
 ```
 Run the project:
 ```
