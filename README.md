@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/skylinecc/simplestbrowser/blob/master/data/logo.png?raw=true" width="200" height="200"></p>
 <h1 align="center">simplestbrowser</h1>
-<p align="center>A simple implementation of webkitGTK in ~48 Rust SLOC. Compiles to a 2.93 MB self-contained binary.</p>
+<p align="center">A simple implementation of webkitGTK in ~48 Rust SLOC. Compiles to a 2.93 MB self-contained binary.</p>
 <p align="center"><img src="https://github.com/skylinecc/simplestbrowser/blob/master/data/simplestbrowser.png?raw=true"></p>
 
 ## Using
