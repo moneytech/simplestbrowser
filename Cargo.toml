@@ -1,6 +1,6 @@
 [package]
 name = "simplestbrowser"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["DefunctLizard <grantshandy@gmail.com>"]
 edition = "2018"
 
@@ -23,3 +23,10 @@ version = "0.9.3"
 [dependencies.gio]
 version = ""
 features = ["v2_44"]
+
+[profile.release]
+opt-level = 'z'  # Optimize for size.
+lto = true
+codegen-units = 1
+panic = 'abort'
+

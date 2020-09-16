@@ -2,5 +2,6 @@
 <gresources>
   <gresource prefix="/org/skylinecc/SimplestBrowser">
     <file>window.ui</file>
+    <file>org.skylinecc.SimplestBrowser.svg</file>
   </gresource>
 </gresources>
