@@ -4,7 +4,7 @@
 <p align="center"><img src="https://github.com/skylinecc/simplestbrowser/blob/master/data/simplestbrowser.png?raw=true"></p>
 
 ## Using
-Download the latest binary from the [releases](https://github.com/skylinecc/simplestbrowser/releases) page, or build the project from scratch.
+Download the latest binary from the [releases](https://github.com/skylinecc/simplestbrowser/releases) page, or build the project from scratch. No dependencies required, just download and run.
 
 ## Building
 Install dependencies:
